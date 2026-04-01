@@ -1,0 +1,145 @@
+{
+  "Information-Technology": {
+    "mentor_note": "The tech market is shifting towards DevOps, Cloud, and full-stack development. Focus on deployment, not just coding.",
+    "milestones": ["Master Git & Docker", "Build a Full-Stack Project", "Get AWS Certified"],
+    "interview": ["Explain the SDLC.", "What are Microservices?", "How do you handle merge conflicts in Git?"],
+    "prep_urls": [
+      {"name": "GeeksforGeeks", "url": "https://www.geeksforgeeks.org/"},
+      {"name": "InterviewBit", "url": "https://www.interviewbit.com/"}
+    ]
+  },
+  "Data Science": {
+    "mentor_note": "Math and Statistics are the backbone. Ensure you can explain the 'Why' behind the algorithm.",
+    "milestones": ["Advanced SQL & Statistics", "Kaggle Competition Entry", "Tableau/PowerBI Dashboard"],
+    "interview": ["Explain Overfitting.", "Difference between L1 and L2 regularization?", "How does Random Forest work?"],
+    "prep_urls": [
+      {"name": "Kaggle Learn", "url": "https://www.kaggle.com/learn"},
+      {"name": "Towards Data Science", "url": "https://towardsdatascience.com/"}
+    ]
+  },
+  "AI Engineer": {
+    "mentor_note": "Focus on LLMs, RAG, and agentic workflows. Generative AI is the current industry gold mine.",
+    "milestones": ["Fine-tune a Model", "Build a RAG Pipeline", "Optimize Model Inference"],
+    "interview": ["What is a Transformer architecture?", "How to optimize LLMs?", "Explain Backpropagation."],
+    "prep_urls": [
+      {"name": "DeepLearning.AI", "url": "https://www.deeplearning.ai/"},
+      {"name": "Hugging Face", "url": "https://huggingface.co/learn"}
+    ]
+  },
+  "Cybersecurity": {
+    "mentor_note": "Security is critical. Learn penetration testing, network defense, and ethical hacking.",
+    "milestones": ["Learn Nmap & Wireshark", "Complete CEH Certification", "Build Security Lab Projects"],
+    "interview": ["Explain firewall types.", "How do you prevent SQL injection?", "What is ethical hacking?"],
+    "prep_urls": [
+      {"name": "Cybrary", "url": "https://www.cybrary.it/"},
+      {"name": "TryHackMe", "url": "https://tryhackme.com/"}
+    ]
+  },
+  "Cloud Computing": {
+    "mentor_note": "Cloud skills are in high demand. Focus on AWS, Azure, or GCP certifications.",
+    "milestones": ["AWS Solutions Architect Prep", "Deploy Apps on Cloud", "Cloud Security Fundamentals"],
+    "interview": ["What is SaaS, PaaS, IaaS?", "How do you scale cloud applications?", "Explain load balancing."],
+    "prep_urls": [
+      {"name": "AWS Training", "url": "https://aws.amazon.com/training/"},
+      {"name": "Microsoft Learn", "url": "https://learn.microsoft.com/en-us/training/"}
+    ]
+  },
+  "Robotics": {
+    "mentor_note": "Robotics combines mechanical, electrical, and programming skills. Focus on ROS and automation.",
+    "milestones": ["Build Arduino & Raspberry Pi Projects", "Learn ROS Basics", "Participate in Robotics Contests"],
+    "interview": ["Explain kinematics in robotics.", "What is ROS?", "How do you control a robotic arm?"],
+    "prep_urls": [
+      {"name": "ROS Tutorials", "url": "https://www.ros.org/tutorials/"},
+      {"name": "IEEE Robotics", "url": "https://robotics.ieee.org/"}
+    ]
+  },
+  "Blockchain": {
+    "mentor_note": "Blockchain is transforming finance and tech. Focus on smart contracts and decentralized apps.",
+    "milestones": ["Learn Solidity", "Build Ethereum DApp", "Understand Consensus Algorithms"],
+    "interview": ["What is a smart contract?", "Explain blockchain consensus.", "Difference between Bitcoin and Ethereum."],
+    "prep_urls": [
+      {"name": "Solidity Docs", "url": "https://docs.soliditylang.org/"},
+      {"name": "Ethereum.org", "url": "https://ethereum.org/en/developers/"}
+    ]
+  },
+  "Finance": {
+    "mentor_note": "Attention to detail is everything. Certifications like CFA or FRM add massive weightage.",
+    "milestones": ["Financial Modeling Skills", "CFA Level 1 Prep", "Valuation Project"],
+    "interview": ["What is EBITDA?", "How do you value a company?", "Explain the three financial statements."],
+    "prep_urls": [
+      {"name": "Investopedia Finance", "url": "https://www.investopedia.com/"},
+      {"name": "Corporate Finance Institute", "url": "https://corporatefinanceinstitute.com/"}
+    ]
+  },
+  "HR": {
+    "mentor_note": "Focus on Talent Analytics and Strategic HR. Emotional Intelligence is your superpower.",
+    "milestones": ["Labor Law Certification", "ATS Software Familiarity", "Employee Engagement Project"],
+    "interview": ["How do you handle workplace conflict?", "Describe your recruitment funnel.", "What is a PIP?"],
+    "prep_urls": [
+      {"name": "SHRM Learning", "url": "https://www.shrm.org/"},
+      {"name": "HR Interview Prep", "url": "https://www.glassdoor.com/"}
+    ]
+  },
+  "Marketing": {
+    "mentor_note": "Data-driven marketing is key. Learn Google Analytics and Meta Ads Manager.",
+    "milestones": ["Google Ads Certification", "SEO/SEM Strategy Build", "Content Marketing Portfolio"],
+    "interview": ["What is a Conversion Funnel?", "How do you calculate ROAS?", "Difference between SEO and SEM."],
+    "prep_urls": [
+      {"name": "HubSpot Academy", "url": "https://academy.hubspot.com/"},
+      {"name": "Google Digital Garage", "url": "https://learndigital.withgoogle.com/"}
+    ]
+  },
+  "UX/UI Design": {
+    "mentor_note": "User experience is everything. Focus on Figma, prototyping, and usability testing.",
+    "milestones": ["Master Figma", "Build Interactive Prototypes", "Learn User Research Methods"],
+    "interview": ["Explain user-centered design.", "What is A/B testing?", "How do you gather UX feedback?"],
+    "prep_urls": [
+      {"name": "Figma Resources", "url": "https://www.figma.com/resources/learn-design/"},
+      {"name": "Interaction Design Foundation", "url": "https://www.interaction-design.org/"}
+    ]
+  },
+  "Content Writing": {
+    "mentor_note": "Strong writing is key for digital roles. Focus on blogs, copywriting, and SEO.",
+    "milestones": ["Start a Blog", "Write SEO Optimized Articles", "Build Portfolio of Writing Samples"],
+    "interview": ["How do you write for online audiences?", "What is SEO content?", "Explain copywriting principles."],
+    "prep_urls": [
+      {"name": "Copyblogger", "url": "https://copyblogger.com/"},
+      {"name": "HubSpot Blog", "url": "https://blog.hubspot.com/"}
+    ]
+  },
+  "Product Management": {
+    "mentor_note": "PMs bridge tech and business. Focus on market research, prioritization, and roadmap planning.",
+    "milestones": ["Understand Agile & Scrum", "Create Product Roadmaps", "Conduct Market Research"],
+    "interview": ["How do you prioritize features?", "Explain MVP concept.", "How do you handle stakeholder conflicts?"],
+    "prep_urls": [
+      {"name": "Product School", "url": "https://www.productschool.com/"},
+      {"name": "Mind the Product", "url": "https://www.mindtheproduct.com/"}
+    ]
+  },
+  "Entrepreneurship": {
+    "mentor_note": "Building your own venture requires resilience. Focus on ideation, funding, and scaling.",
+    "milestones": ["Develop Business Plan", "Pitch to Investors", "Launch MVP"],
+    "interview": ["How do you validate a business idea?", "Explain funding stages.", "How do you handle failure?"],
+    "prep_urls": [
+      {"name": "Y Combinator Resources", "url": "https://www.ycombinator.com/resources/"},
+      {"name": "Entrepreneur.com", "url": "https://www.entrepreneur.com/topic/startups"}
+    ]
+  },
+  "Study Abroad": {
+    "mentor_note": "Focus on application processes, scholarships, and standardized tests like IELTS/TOEFL.",
+    "milestones": ["Prepare IELTS/TOEFL", "Shortlist Universities", "Submit Applications & SOPs"],
+    "interview": ["What is your preferred country?", "Explain your SOP.", "How do you plan to fund your studies?"],
+    "prep_urls": [
+      {"name": "QS Top Universities", "url": "https://www.topuniversities.com/"},
+      {"name": "Study Abroad Guide", "url": "https://www.studyabroad.com/"}
+    ]
+  },
+  "Default": {
+    "mentor_note": "Focus on general professional development and networking on LinkedIn.",
+    "milestones": ["Optimize LinkedIn", "Skill Certification", "Networking Outreach"],
+    "interview": ["Tell me about yourself.", "What are your strengths?"],
+    "prep_urls": [
+      {"name": "LinkedIn Learning", "url": "https://www.linkedin.com/learning/"}
+    ]
+  }
+}

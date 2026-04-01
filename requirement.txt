@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+PyPDF2
+beautifulsoup4
+requests
+nltk
+lxml

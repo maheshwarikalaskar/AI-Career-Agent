@@ -1,0 +1,128 @@
+{
+    "Data Scientist": [
+        "python", "machine learning", "deep learning", "statistics",
+        "data analysis", "pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"
+    ],
+
+    "Machine Learning Engineer": [
+        "python", "machine learning", "tensorflow", "keras",
+        "deep learning", "nlp", "computer vision", "model deployment"
+    ],
+
+    "Data Analyst": [
+        "sql", "excel", "tableau", "power bi",
+        "data visualization", "statistics", "data cleaning"
+    ],
+
+    "AI Engineer": [
+        "python", "deep learning", "tensorflow", "pytorch",
+        "nlp", "computer vision", "transformers", "llm"
+    ],
+
+    "Python Developer": [
+        "python", "django", "flask", "api", "sql", "git"
+    ],
+
+    "Java Developer": [
+        "java", "spring", "hibernate", "jsp", "servlets", "sql"
+    ],
+
+    "Web Developer": [
+        "html", "css", "javascript", "react", "bootstrap", "node.js"
+    ],
+
+    "Frontend Developer": [
+        "html", "css", "javascript", "react", "angular", "ui design"
+    ],
+
+    "Backend Developer": [
+        "node.js", "django", "flask", "spring", "api", "database"
+    ],
+
+    "Full Stack Developer": [
+        "html", "css", "javascript", "react", "node.js", "mongodb", "sql"
+    ],
+
+    "DevOps Engineer": [
+        "docker", "kubernetes", "aws", "linux", "ci/cd", "jenkins"
+    ],
+
+    "Cloud Engineer": [
+        "aws", "azure", "gcp", "cloud computing", "docker", "kubernetes"
+    ],
+
+    "Cybersecurity Engineer": [
+        "network security", "firewall", "encryption", "penetration testing", "ethical hacking"
+    ],
+
+    "Database Administrator": [
+        "sql", "oracle", "mysql", "database management", "backup", "recovery"
+    ],
+
+    "Software Tester": [
+        "manual testing", "automation testing", "selenium", "test cases", "bug tracking"
+    ],
+
+    "Business Analyst": [
+        "business analysis", "requirement gathering", "sql", "excel",
+        "data visualization", "communication"
+    ],
+
+    "Product Manager": [
+        "product management", "roadmap planning", "agile", "scrum",
+        "market research", "stakeholder management"
+    ],
+
+    "Digital Marketing Specialist": [
+        "seo", "sem", "social media marketing", "content marketing",
+        "google analytics", "email marketing"
+    ],
+
+    "Sales Executive": [
+        "sales", "lead generation", "communication", "negotiation", "crm"
+    ],
+
+    "HR Manager": [
+        "recruitment", "employee engagement", "payroll", "hr policies", "communication"
+    ],
+
+    "Mechanical Engineer": [
+        "cad", "solidworks", "manufacturing", "thermodynamics", "mechanical design"
+    ],
+
+    "Civil Engineer": [
+        "autocad", "construction", "site management", "structural design", "estimation"
+    ],
+
+    "Electrical Engineer": [
+        "power systems", "circuit design", "electrical machines", "control systems"
+    ],
+
+    "Network Engineer": [
+        "networking", "cisco", "routing", "switching", "tcp/ip"
+    ],
+
+    "Blockchain Developer": [
+        "blockchain", "ethereum", "smart contracts", "solidity", "web3"
+    ],
+
+    "Game Developer": [
+        "unity", "unreal engine", "c#", "game design", "3d modeling"
+    ],
+
+    "UI/UX Designer": [
+        "figma", "adobe xd", "user research", "wireframing", "prototyping"
+    ],
+
+    "Content Writer": [
+        "content writing", "seo writing", "blogging", "copywriting", "editing"
+    ],
+
+    "Teacher": [
+        "teaching", "subject knowledge", "communication", "lesson planning"
+    ],
+
+    "Fitness Trainer": [
+        "fitness", "nutrition", "exercise", "personal training", "health"
+    ]
+}
